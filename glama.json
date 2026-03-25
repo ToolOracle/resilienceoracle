@@ -1,0 +1,1 @@
+{"name": "ResilienceOracle", "description": "DORA Art. 11-12 resilience \u2014 10 MCP tools for BIA, RTO/RPO, DR testing, BCM", "category": "compliance", "tags": ["dora", "resilience", "bcm", "disaster-recovery"], "tools": 10, "transport": "streamable-http", "endpoint": "https://tooloracle.io/resilience/mcp/"}
