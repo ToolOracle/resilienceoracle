@@ -1,1 +1,8 @@
-{"name": "ResilienceOracle", "description": "DORA Art. 11-12 resilience \u2014 10 MCP tools for BIA, RTO/RPO, DR testing, BCM", "category": "compliance", "tags": ["dora", "resilience", "bcm", "disaster-recovery"], "tools": 10, "transport": "streamable-http", "endpoint": "https://tooloracle.io/resilience/mcp/"}
+{
+  "name": "resilienceOracle",
+  "description": "DORA Art. 11/12 Resilience \u2014 10 MCP tools for BCP, DR testing",
+  "repository": "https://github.com/ToolOracle/resilienceoracle",
+  "endpoint": "https://tooloracle.io/resilience/mcp/",
+  "tools": 10,
+  "license": "MIT"
+}
