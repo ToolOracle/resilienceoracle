@@ -1,0 +1,5 @@
+name: ResilienceOracle
+description: DORA Art. 11-12 BCM & resilience — 10 tools
+endpoint: https://tooloracle.io/resilience/mcp/
+transport: streamable-http
+license: MIT
